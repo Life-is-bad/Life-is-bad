@@ -1,5 +1,5 @@
 - 👋 Hi,  I’m @Life-is-bad
-- 🌱 I’m currently learning - Python
+- 🌱 I’m currently learning - C++
 - 📫 How to reach me - Please don't
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a life 😁
