@@ -1,8 +1,8 @@
 - 👋 Hi,  I’m @Life-is-bad
-- 🌱 I’m currently learning - C++
+- 🌱 I’m currently learning - Machine Language
 - 📫 How to reach me - Please don't
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a life 😁
+- ⚡ Fun fact: I don't have a life
 
 <!---
 Life-is-bad/Life-is-bad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
