@@ -1,4 +1,5 @@
 - 👋 Hi,  I’m @Life-is-bad
+- 🫰 Languages Learnt - Python, C++, C, Assembly
 - 🌱 I’m currently learning - Machine Language
 - 📫 How to reach me - Please don't
 - 😄 Pronouns: He/Him
