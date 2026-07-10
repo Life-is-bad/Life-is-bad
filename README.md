@@ -1,7 +1,7 @@
 - 👋 Hi,  I’m @Life-is-bad
 - 🫰 Languages Learnt - Python, Java, C++, C# and GDScript.
 - 🌱 I’m currently learning - C
-- 📫 How to reach me - vestigefrfr@gmail.com
+- 📫 How to reach me - azanaiyer4@gmail.com@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do have a life
 
