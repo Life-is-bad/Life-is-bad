@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning - C
 - 📫 How to reach me - azanaiyer4@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do have a life
 
 <!---
 Life-is-bad/Life-is-bad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
